@@ -143,7 +143,7 @@ public class day9 {
 					wc++; // 2 // 4 // 5 // 6	
 		
 				}
-	}hlkhoihijhihophiophiohjoijhop/
+	}
 }
 
 
